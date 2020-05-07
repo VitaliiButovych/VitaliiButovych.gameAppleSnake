@@ -1,0 +1,7 @@
+html, body {padding: 0; margin: 0;}
+* {box-sizing: border-box;}
+body {background: black; padding: 64px;}
+canvas {
+	display: block;
+	margin: 0 auto;
+}
